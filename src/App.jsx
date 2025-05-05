@@ -41,8 +41,6 @@ function App() {
             throw new Error("Failed to fetch data");
         }
         const list = await response.json();
-        
-
        const filteredData = data.filter(item => list.includes(item.id));
      
       setfavourite(filteredData)
