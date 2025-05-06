@@ -31,7 +31,7 @@ const Slide = () => {
                 <div className='flex flex-col w-[80%]'>
 
                   <h3 className='pl-2 pt-3 text-xs'>Premium searched online brand </h3>
-                  <h1 className='pl-2 max-sm:text-lg text-2xl font-bold'>Summer Collection 2024</h1>
+                  <h1 className='pl-2 max-sm:text-lg text-2xl font-bold'>Winter Collection 2024</h1>
                   <h3 className='pl-2 max-sm:text-sm '>Discover timeless style and unbeatable comfort with our curated collection of men's fashion </h3>
                   <ul className='  menu '>
                     <li className='max-sm:text-sm font-bold rounded-md '><a onClick={ScrollButton} className=' w-32 max-sm:w-[92px] justify-center bg-base-300 roboto_font '>Buy Now</a></li>
