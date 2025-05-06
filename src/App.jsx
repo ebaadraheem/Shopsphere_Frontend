@@ -98,7 +98,7 @@ useEffect(() => {
       <Route path="/t-shirts" element={<CategoryPage category="T_Shirt" />} />
       <Route path="/pants" element={<CategoryPage category="Pant" />} />
       <Route path="/trousers" element={<CategoryPage category="Trouser" />} />
-      <Route path="/fragrances" element={<CategoryPage category="Fragrance" />} />
+      <Route path="/blazers" element={<CategoryPage category="Blazer" />} />
       <Route path="/payment" element={<Payment />} />
       <Route path="/description" element={<Description />} />
       <Route path="/signup" element={<SignUp />} />
