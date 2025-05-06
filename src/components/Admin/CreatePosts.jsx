@@ -167,7 +167,7 @@ const CreatePosts = () => {
                                         <option>T_Shirt</option>
                                         <option>Pant</option>
                                         <option>Trouser</option>
-                                        <option>Fragrance</option>
+                                        <option>Blazer</option>
                                     </select>
                                 </div>
                             </div>
